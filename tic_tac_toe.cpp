@@ -1,9 +1,3 @@
-/*
- * Simple Tic Tac Toe Game.
- * Compile : g++ TicTacToe.cpp
- * Run : ./a.out
- */
-
 #include <iostream>
 #include <cstdlib>
 using namespace std;
