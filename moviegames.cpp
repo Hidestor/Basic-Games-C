@@ -1,5 +1,3 @@
-//author:- Siddharth Gupta
-// email:- siddharthgupta234@gmail.com
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int lli;
